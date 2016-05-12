@@ -26,6 +26,6 @@ To build the documentation:
     python make.py docs
 
 
-To build examples:
+To build examples:!
 
     python make.py examples
